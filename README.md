@@ -1,2 +1,2 @@
 # TypeScript
-Test Project
+Test Project for Github
